@@ -15,5 +15,6 @@
 	"Tx": "Tx",
 	"$": "$",
 	"From": "From",
-	"Coinbase Transactions": "Coinbase Transactions"
+	"Coinbase Transactions": "Coinbase Transactions",
+	"Blockchain  visualizer": "Blockchain  visualizer"
 }
